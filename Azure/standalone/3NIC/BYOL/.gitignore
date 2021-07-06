@@ -7,6 +7,9 @@
 *.tfstate.lock.info
 *.tfstate.*
 
+# lock files
+**/.terraform.lock.*
+
 # Ignored Terraform files
 *gitignore*.tf
 
