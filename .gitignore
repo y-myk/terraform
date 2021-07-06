@@ -8,6 +8,7 @@
 *.tfstate.*
 
 # lock files
+*.terraform.lock.hcl
 **/.terraform.lock.*
 
 # Ignored Terraform files
