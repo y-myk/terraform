@@ -19,7 +19,7 @@ Also make sure that azuredeploy.json file from https://github.com/F5Networks/f5-
 ## Installation
 
 ```
-git clone https://github.com/y-myk/terraform-aws-ha.git
+git clone https://github.com/y-myk/terraform.git
 cd terraform/Azure/standalone/3NIC/PAYG
 ```
 
