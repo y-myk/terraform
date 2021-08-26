@@ -34,5 +34,5 @@ terraform apply
 
 This solution requires access to the AWS API.
 
-You need to create IAM User in AWS and assign IAM role to this ussser with permissions to create/modify VPC/subnets/IGW/SG/EC2. Copy Access Key ID and a Secret Access Key to a host with Terraform installed. Then assign values to AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY environment variables. Details: https://registry.terraform.io/providers/hashicorp/aws/latest/docs#environment-variables
+You need to create IAM User in AWS and assign IAM role to this user with permissions to create/modify VPC/subnets/IGW/SG/EC2. Make a note of Access Key ID and a Secret Access Key for an IAM user ccreatedd in AWS. Then assign relevant values to AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY environment variables. Details: https://registry.terraform.io/providers/hashicorp/aws/latest/docs#environment-variables
 
