@@ -19,7 +19,7 @@ This module creates new VPC with public subnet and Internet Gateway. Security-Gr
 
 ```
 git clone https://github.com/y-myk/terraform.git
-cd terraform/Azure/standalone/3NIC/BYOL
+cd terraform/aws/nginx_srv/
 ```
 
 Modify variables in variables.tf. Then run:
