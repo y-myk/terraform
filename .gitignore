@@ -11,3 +11,6 @@
 
 # Terraform crash log
 **/crash.log
+
+# .txt files
+*.txt
